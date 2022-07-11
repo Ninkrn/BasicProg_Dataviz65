@@ -2,7 +2,7 @@
 วิชา SC663401 : Basic Programming for Data Science and Data Visualization ของ กรณิศ เมืองเก่า ID: 6330204387-8
 
 # Grading
-![grading image](igrading.jpg)
+![grading image](grading.jpg)
 
 # ชื่อกลุ่ม
 กลุ่ม 2NK
